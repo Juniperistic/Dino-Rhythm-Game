@@ -1,2 +1,3 @@
 # Dino-Rhythm-Game
 The Dino Rhythm Game is the first videogame project that is being fully developed on my own. I am completing this project as part of an assignment in my 3D Game Development class as well as a submission for the Game Develop Month Gamejam. More info for this game jam can be found at: http://gamedevelopmonth.com/ Once it is completed and released it will be found on my itch.io page at: https://juniperistic.itch.io/
+If you are curious about the various prefabs & assets that I have used in my project be sure to check out the licenses.txt file for all of that information. Unfortunately due to copyright & things of that nature I am unsure if I am able to upload the prefabs that I have created directly onto this repo.
