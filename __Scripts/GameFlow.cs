@@ -23,9 +23,6 @@ public class GameFlow : MonoBehaviour
     public Transform HealthPowerUp;
     private Vector3 nextHealthPowerUpSpawn;
 
-    public static int health = 100; //Player's Health
-    public static int score = 0; //Player's Score from Hitting Correct Notes
-
 
     void Start()
     {

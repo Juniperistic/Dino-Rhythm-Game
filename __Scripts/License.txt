@@ -3,14 +3,7 @@ Asset URL: https://assetstore.unity.com/packages/3d/environments/low-poly-rock-p
 Author: Broken Vector
 License: Standard Unity Asset Store EULA
 Date: April 5, 2023
-Time: 12:10 PM
-
-Asset: Low-Poly Simple Nature Pack
-Asset URL: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
-Author: JustCreate
-License: Standard Unity Asset Store EULA
-Date: April 5, 2023
-Time: 12:29 PM
+Time: 12:10 PM 
 
 Asset: Low Poly Powerups
 Asset URL: https://assetstore.unity.com/packages/3d/props/low-poly-powerups-212079
@@ -19,20 +12,6 @@ License: Standard Unity Asset Store EULA
 Date: April 5, 2023
 Time: 12:33 PM
 
-Asset: Nature Starter Kit
-Asset URL: https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977
-Author: Shapes
-License: Standard Unity Asset Store EULA
-Date: April 5, 2023
-Time: 12:36 PM
-
-Asset: Nature Kit
-Asset URL: https://www.kenney.nl/assets/nature-kit
-Author: Kenney
-License: Creative Commons CC0
-Date: April 5, 2023
-Time: 1:31 PM
-
 Asset: Free Music Tracks For Games
 Asset URL: https://assetstore.unity.com/packages/audio/music/free-music-tracks-for-games-156413
 Author: Rizwan Ashraf
@@ -40,9 +19,9 @@ License: Standard Unity Asset Store EULA
 Date: April 5, 2023
 Time: 3:04 PM
 
-Asset: 
-Asset URL: 
-Author: 
-License: 
-Date:
-Time: 
+Asset: Nature Kit
+Asset URL: https://www.kenney.nl/assets/nature-kit
+Author: Kenney
+License: Creative Commons CC0
+Date: April 5, 2023
+Time: 1:31 PM 

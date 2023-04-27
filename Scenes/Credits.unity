@@ -625,8 +625,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Credits\nBy: Juniperistic \n\nMany Thanks to the Asset Creators:\n(Will
-    Add them in later)"
+  m_text: 'Credits
+
+
+    By: Juniperistic '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9c4a524f3f97d6c449b72e10dfeaf0df, type: 2}
   m_sharedMaterial: {fileID: -8440062758774866916, guid: 9c4a524f3f97d6c449b72e10dfeaf0df, type: 2}

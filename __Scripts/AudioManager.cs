@@ -8,9 +8,10 @@ public class AudioManager : MonoBehaviour
 {
     public AudioMixer theMixer;
 
-    void Start()
+    void Awake()
     {
-        if(PlayerPrefs.HasKey("MasterVol"))
+
+        if (PlayerPrefs.HasKey("MasterVol"))
         {
             theMixer.SetFloat("MasterVol", PlayerPrefs.GetFloat("MasterVol"));
         }
@@ -24,6 +25,24 @@ public class AudioManager : MonoBehaviour
         {
             theMixer.SetFloat("SFXVol", PlayerPrefs.GetFloat("SFXVol"));
         }
+    }
+
+    void Start()
+    {
+        //if(PlayerPrefs.HasKey("MasterVol"))
+        //{
+        //    theMixer.SetFloat("MasterVol", PlayerPrefs.GetFloat("MasterVol"));
+        //}
+
+        //if (PlayerPrefs.HasKey("MusicVol"))
+        //{
+        //    theMixer.SetFloat("MusicVol", PlayerPrefs.GetFloat("MusicVol"));
+        //}
+
+        //if (PlayerPrefs.HasKey("SFXVol"))
+        //{
+        //    theMixer.SetFloat("SFXVol", PlayerPrefs.GetFloat("SFXVol"));
+        //}
     }
 
     void Update()

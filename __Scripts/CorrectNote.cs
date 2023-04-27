@@ -20,8 +20,16 @@ public class CorrectNote : MonoBehaviour
     {
         if (other.tag == "Player") 
         {
-            GameFlow.score += 10;
-            Debug.Log(GameFlow.score);
+            PlayerScore.instance.AddScore();
+
+            //var scoreComponent = GetComponent<Collider>().GetComponent<PlayerScore>();
+            //if (scoreComponent != null)
+            //{
+            //    scoreComponent.AddScore(10);
+            //}
+
+            //GameFlow.score += 10;
+            //Debug.Log(GameFlow.score);
             Destroy(gameObject);
         }
 

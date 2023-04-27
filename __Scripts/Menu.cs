@@ -11,6 +11,7 @@ public class Menu : MonoBehaviour
     public string credits;
     public string options;
     public string mainmenu;
+    public string endscreen;
 
     public void PlayGame()
     {
@@ -29,6 +30,11 @@ public class Menu : MonoBehaviour
     public void ShowCredits()
     {
         SceneManager.LoadScene(credits);
+    }
+
+    public void ShowEndScreen()
+    {
+        SceneManager.LoadScene(endscreen);
     }
 
     public void ExitGame()

@@ -20,8 +20,14 @@ public class IncorrectNote : MonoBehaviour
     {
         if (other.tag == "Player") 
         {
-            GameFlow.health -= 10;
-            Debug.Log(GameFlow.health);
+            var healthComponent = GetComponent<Collider>().GetComponent<PlayerHealth>();
+            if (healthComponent != null)
+            {
+                healthComponent.TakeDamage(10);
+            }
+
+            //GameFlow.health -= 10;
+            //Debug.Log(GameFlow.health);
             Destroy(gameObject);
         }
 
