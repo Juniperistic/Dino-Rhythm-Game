@@ -24,4 +24,18 @@ Asset URL: https://www.kenney.nl/assets/nature-kit
 Author: Kenney
 License: Creative Commons CC0
 Date: April 5, 2023
-Time: 1:31 PM 
+Time: 1:31 PM
+
+Asset: Super Cereal Font
+Asset URL: https://www.dafont.com/super-cereal.font
+Author: fsuarez913
+License: 100% free for personal use & commercial use
+Date: July 23, 2023
+Time: 7:57 PM
+
+Asset: 
+Asset URL: 
+Author: 
+License:
+Date: 
+Time:
